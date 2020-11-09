@@ -2,9 +2,9 @@ import csv
 import psycopg2
 
 conn = psycopg2.connect(
-    user = "sonar",
-    password = "password",
-    host = "35.225.176.143",
+    user = "xxxxx",
+    password = "xxxx",
+    host = "xx.xxx.xxx.xxx",
     port = "5432",
     database = ""
 )
